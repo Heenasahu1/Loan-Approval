@@ -1,0 +1,11 @@
+Age,Gender,Education,Person Income,Employee Experience,Home Onwership,Loan Amount,Loan Intent,Loan interest Rate,Loan percentage,Credit History,Credit Score,Previous Loan,Loan Status
+28,male,Bachelor,55000,3,RENT,15000,PERSONAL,12.5,0.27,3,680,No,1
+35,female,Master,85000,8,MORTGAGE,25000,HOMEIMPROVEMENT,10.2,0.29,4,720,Yes,1
+26,female,High School,32000,1,OWN,8000,EDUCATION,15.5,0.25,2,620,No,0
+45,male,Bachelor,120000,15,MORTGAGE,40000,DEBTCONSOLIDATION,8.5,0.33,5,750,Yes,1
+23,female,Associate,28000,0,RENT,5000,PERSONAL,18.0,0.18,1,580,No,0
+31,male,Master,95000,7,RENT,20000,VENTURE,11.0,0.21,4,700,No,1
+29,female,Bachelor,68000,4,MORTGAGE,18000,MEDICAL,13.5,0.26,3,690,Yes,1
+37,male,High School,45000,10,OWN,12000,PERSONAL,14.0,0.27,3,665,No,1
+24,female,Bachelor,42000,2,RENT,10000,EDUCATION,16.0,0.24,2,610,No,0
+41,male,Master,150000,20,MORTGAGE,50000,BUSINESS,7.0,0.33,5,780,Yes,1
